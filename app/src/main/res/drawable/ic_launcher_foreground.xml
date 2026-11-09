@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Lens Ring -->
+    <path
+        android:pathData="M54,27 C68.91,27 81,39.09 81,54 C81,68.91 68.91,81 54,81 C39.09,81 27,68.91 27,54 C27,39.09 39.09,27 54,27 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:fillColor="#00000000" />
+    <!-- Aperture Blades -->
+    <path
+        android:pathData="M54,35 L67,46 L58,54 Z"
+        android:fillColor="#E6E8EC" />
+    <path
+        android:pathData="M67,46 L67,62 L54,58 Z"
+        android:fillColor="#CDD0D6" />
+    <path
+        android:pathData="M67,62 L54,73 L49,60 Z"
+        android:fillColor="#B2B6BE" />
+    <path
+        android:pathData="M54,73 L41,62 L50,54 Z"
+        android:fillColor="#E6E8EC" />
+    <path
+        android:pathData="M41,62 L41,46 L54,50 Z"
+        android:fillColor="#CDD0D6" />
+    <path
+        android:pathData="M41,46 L54,35 L59,48 Z"
+        android:fillColor="#B2B6BE" />
+    <!-- Center Pupil Aperture Opening -->
+    <path
+        android:pathData="M54,49 C56.76,49 59,51.24 59,54 C59,56.76 56.76,59 54,59 C51.24,59 49,56.76 49,54 C49,51.24 51.24,49 54,49 Z"
+        android:fillColor="#0C0D0F" />
+    <!-- Subtle Red Lens dot (classic rangefinder / prime lens marker) -->
+    <path
+        android:pathData="M54,21 C55.38,21 56.5,22.12 56.5,23.5 C56.5,24.88 55.38,26 54,26 C52.62,26 51.5,24.88 51.5,23.5 C51.5,22.12 52.62,21 54,21 Z"
+        android:fillColor="#E53935" />
+</vector>
+

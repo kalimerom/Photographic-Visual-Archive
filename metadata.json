@@ -1,0 +1,6 @@
+{
+  "name": "Visual Archive",
+  "description": "A minimal, personal photography archive and visual notebook for analog and digital photographers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
